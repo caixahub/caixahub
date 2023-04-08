@@ -14,7 +14,7 @@
 ![Linux 64](https://img.shields.io/badge/platform-linux64-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![slack](https://img.shields.io/badge/Slackware-000000.svg?style=for-the-badge&logo=Slackware&logoColor=white)&nbsp;
 
-### Studying in this moment:
+### Studying in this moment:(ML/DL)
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 

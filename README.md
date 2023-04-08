@@ -2,8 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00ff00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Elcio+Caixeiro;I'm+from+Brazil;I+Graduated+Electrical+Engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=caixahub&bg_color=000000&color=00ff00&line=80ff00&point=00ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer"/>
 
+![Snake animation](https://github.com/vivianefrts/vivianefrts/blob/output/github-contribution-grid-snake.svg)
 
 
  
@@ -37,14 +38,10 @@
 ![colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)&nbsp;
 
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{caixahub}/count.svg" /></p> 
-<br>
-</div>
-
- ![Snake animation](https://github.com/vivianefrts/vivianefrts/blob/output/github-contribution-grid-snake.svg)
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer"/>
+ 
+
+
+
 
